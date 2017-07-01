@@ -1,0 +1,8 @@
+# Tests disconnected start and end
+# run with start as any of {0,1,2}, and end as any of {3,4}
+# Should have "No path found for this setup"
+5
+0 1 5
+0 2 5
+1 2 5
+3 4 5
